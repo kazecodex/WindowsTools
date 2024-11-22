@@ -1,4 +1,4 @@
-# Guía para Instalar y Optimizar Windows 11
+# Things to do Windows 11
 
 ## 1. Cargar la ISO en la herramienta MicroWin de Christitus
 - **MicroWin de Christitus** permite personalizar ISOs de Windows antes de la instalación. 
