@@ -1,74 +1,118 @@
-# Things to do Windows 11
+# 🚀 Herramientas y Recursos Útiles para Windows  
 
-## 1. Cargar la ISO en la herramienta MicroWin de Christitus
-- **MicroWin de Christitus** permite personalizar ISOs de Windows antes de la instalación. 
-- Carga la **ISO de Windows 11**, realiza las modificaciones necesarias y guarda la versión personalizada.
-
-## 2. Instalar Ventoy en el Pendrive
-- Descarga **Ventoy**, conecta tu pendrive y sigue el proceso de instalación.
-- Instalar Ventoy en el pendrive hará que sea un dispositivo booteable múltiple.
-
-## 3. Copiar y pegar la ISO modificada en el Pendrive
-- Una vez instalado **Ventoy**, abre el pendrive desde el **explorador de archivos**.
-- Copia la **ISO modificada de Windows 11** y pégala directamente en el pendrive (Ventoy se encargará del arranque).
-
-## 4. Reiniciar el PC
-- Reinicia tu PC y accede al **BIOS/UEFI** (generalmente presionando una tecla como **F2**, **Esc**, **Del** o **F12**).
-- Configura el **pendrive como primera opción de arranque**.
-
-## 5. Iniciar la instalación desde el Pendrive
-- Una vez reiniciado, arranca desde el **pendrive con Ventoy**.
-- Selecciona la **ISO de Windows 11** desde el menú de Ventoy y sigue los pasos para instalar Windows 11.
+Un repositorio dedicado a recopilar herramientas y recursos indispensables para mejorar tu experiencia con Windows. 🖥️💻  
 
 ---
 
-## 6. Verificar que la licencia de Windows esté activada, solucionarlo si no es así
-- Una vez instalado, ve a **Configuración > Actualización y seguridad > Activación**.
-- Si Windows no está activado, puedes ingresar la **clave de producto** o activar Windows mediante otros métodos (como la licencia digital vinculada a tu cuenta de Microsoft).
+## 📂 Recursos Útiles  
+¡Optimiza tu sistema con estas herramientas recomendadas!  
 
-## 7. Buscar actualizaciones en Windows Update, hasta que no quede ninguna
-- Ve a **Configuración > Actualización y seguridad > Windows Update**.
-- Haz clic en **Buscar actualizaciones** y asegúrate de instalar todas las actualizaciones disponibles. Repite el proceso hasta que no queden más actualizaciones pendientes.
+- **[WinUtil](https://github.com/ChrisTitusTech/winutil)** ⚡  
+  👉 Esta herramienta reúne tareas esenciales para optimizar cualquier sistema Windows: simplificar instalaciones, eliminar bloatware, resolver problemas y reparar actualizaciones. Se prioriza mantener el proyecto limpio y eficiente.
 
-## 8. Buscar los controladores desde la página oficial o usar 3dpchip para los principales controladores
-- Descarga los controladores más recientes desde las páginas oficiales del fabricante (placa base, tarjeta gráfica, etc.).
-- También puedes usar **3dpchip** para obtener y actualizar los controladores más importantes como los de red, gráficos y chipset.
+- **[Optimizer](https://github.com/hellzerg/optimizer)** ⚡  
+  👉 Mejora tu privacidad y seguridad en Windows.
 
-## 9. Actualizar con DriverBooster para los controladores restantes
-- Instala **DriverBooster**, que buscará y actualizará automáticamente los controladores obsoletos.
-- Realiza un respaldo o crea un punto de restauración antes de realizar actualizaciones masivas de controladores, por si ocurre algún inconveniente.
+- **[RyTuneX](https://github.com/rayenghanmi/RyTuneX)** ⚙️  
+  👉 Una herramienta que permite optimizar y mejorar el rendimiento del sistema, permitiéndote realizar ajustes finos en las configuraciones de tu PC para obtener un mejor rendimiento.
 
-## 10. Aplicar las tweaks en la herramienta WinUtil de Christitus
-- Usa **WinUtil de Christitus** para aplicar **tweaks** y optimizaciones del sistema.
-- Selecciona las opciones de personalización para desactivar servicios innecesarios, mejorar el rendimiento, ajustar configuraciones de red, y optimizar aspectos visuales.
-
-## 11. Revisar el OOShutop con configuraciones a desactivar
-- **OOShutop** te permite gestionar servicios y configuraciones avanzadas de Windows.
-- Revisa y desactiva los servicios y configuraciones que consideres innecesarios. Asegúrate de no desactivar algo crítico para el funcionamiento del sistema.
-
-## 12. Dependiendo de la cantidad de RAM que tengas, agregar memoria virtual
-- Si tienes menos de 16 GB de RAM, ajusta la **memoria virtual**:
-  - Ve a **Configuración > Sistema > Acerca de** y selecciona **Configuración avanzada del sistema**.
-  - En **Rendimiento**, haz clic en **Configuración**, luego en **Opciones avanzadas** y ajusta el tamaño del archivo de paginación (memoria virtual).
-
-## 13. Con tecla Windows + R, escribir msconfig, ventana arranque > opciones avanzadas, y tildar la opción del procesador, y marcar el número máximo de núcleos
-- Pulsa **Windows + R**, escribe **msconfig** y presiona Enter.
-- En la ventana de **Configuración del sistema**, ve a la pestaña **Arranque > Opciones avanzadas**.
-- Marca la casilla **Número de procesadores** y selecciona el número máximo de núcleos disponibles de tu CPU para mejorar el rendimiento del arranque.
-
-## 14. Al final de todo, para una limpieza profunda utilizar BleachBit
-- Descarga **BleachBit** desde su página oficial y ejecútalo.
-- **BleachBit** eliminará archivos temporales, cachés, registros y otros archivos innecesarios de tu sistema, liberando espacio en el disco y mejorando el rendimiento general.
-- Ten cuidado de no eliminar elementos críticos como cookies si las necesitas.
+- **Scripts útiles** 💻  
+  Automatiza tareas comunes con estos pequeños pero poderosos scripts:  
+  - 🧹 Limpieza de archivos temporales.  
+  - 🚀 Optimización de configuraciones del sistema.  
+  - ⛔ Deshabilitar servicios innecesarios.  
 
 ---
 
-## Resumen de pasos adicionales:
-1. **Verifica y soluciona la activación** de la licencia de Windows.
-2. Realiza todas las **actualizaciones disponibles** en **Windows Update**.
-3. Instala y actualiza los **controladores** utilizando herramientas como **3dpchip** y **DriverBooster**.
-4. Aplica las **optimización** de **WinUtil**.
-5. Revisa y desactiva configuraciones innecesarias con **OOShutop**.
-6. Ajusta la **memoria virtual** según tu cantidad de RAM.
-7. Configura el número de **núcleos** a usar en **msconfig**.
-8. Realiza una **limpieza profunda** con **BleachBit**.
+## 🔑 Activación Windows | Office  
+
+- **[Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts)** ⭐  
+
+---
+
+## 📦 Programas Recomendados  
+Aquí tienes algunas de las mejores herramientas para instalar en tu sistema Windows:
+
+- **[7-Zip](https://www.7-zip.org/)** 📂  
+  👉 Un gestor de archivos comprimidos de código abierto, compatible con varios formatos, ideal para trabajar con archivos comprimidos.
+
+- **[CCleaner](https://www.ccleaner.com/)** 🧹  
+  👉 Herramienta para limpiar y optimizar tu sistema, eliminando archivos temporales, caché y otros elementos innecesarios.
+
+- **[AutoHotkey](https://www.autohotkey.com/)** ⌨️  
+  👉 Programa que permite automatizar tareas mediante la creación de scripts personalizados. Perfecto para mejorar la productividad.
+
+- **[ShareX](https://getsharex.com/)** 📸  
+  👉 Herramienta para hacer capturas de pantalla y grabar tu pantalla con muchas opciones de personalización.
+
+---
+
+## 🌐 Páginas Útiles  
+Aquí tienes algunas páginas web que te facilitan la instalación de herramientas y recursos en Windows:
+
+- **[Ninite](https://ninite.com/)** 🖥️  
+  👉 Facilita la instalación masiva de múltiples programas en Windows. Con Ninite puedes elegir varios programas y se instalarán automáticamente sin necesidad de intervención adicional. Ideal para configurar rápidamente tu sistema.
+
+- **[IT Tools](https://it-tools.tech/)** 🛠️  
+  👉 Una página web que reúne herramientas útiles para administrar y mantener tu PC, tanto para tareas de sistema como de desarrollo. Ideal para encontrar soluciones rápidas y eficaces.
+
+- **[Programming Fonts](https://www.programmingfonts.org/)** 🔤  
+  👉 Una página dedicada a recopilar fuentes tipográficas diseñadas especialmente para programadores. Aquí puedes encontrar y probar distintas fuentes que mejorarán la legibilidad y estética de tu editor de código.
+
+---
+
+## 🌐 Extensiones para el Navegador  
+Estas extensiones pueden mejorar tu experiencia de navegación:
+
+- **[uBlock Origin](https://github.com/gorhill/uBlock)** 🚫  
+  👉 Bloqueador de anuncios y rastreadores, mejorando la velocidad de navegación y protegiendo tu privacidad.
+
+- **[Dark Reader](https://darkreader.org/)** 🌙  
+  👉 Activa el modo oscuro en casi todos los sitios web, reduciendo la fatiga visual.
+
+- **[Privacy Badger](https://www.eff.org/privacybadger)** 🛡️  
+  👉 Extensión que bloquea automáticamente los rastreadores que invaden tu privacidad mientras navegas.
+
+---
+
+## 💻 Extensiones para Visual Studio Code (VSCode)  
+Mejora tu flujo de trabajo de desarrollo con estas extensiones:
+
+- **[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)** 🛣️  
+  👉 Autocompleta las rutas de archivo, facilitando la navegación y evitando errores al escribir rutas.
+
+- **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** 🎨  
+  👉 Formatea tu código automáticamente para mantener un estilo consistente y limpio.
+
+- **[Template String Converter](https://marketplace.visualstudio.com/items?itemName=willwade.vscode-template-string-converter)** 🔄  
+  👉 Convierte entre literales de plantilla y concatenaciones de cadenas, lo que mejora la legibilidad y facilidad de uso.
+
+- **[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)** 👥  
+  👉 Colabora en tiempo real con otros desarrolladores, compartiendo tu espacio de trabajo y depurando de manera conjunta.
+
+- **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)** 🌐  
+  👉 Lanza un servidor de desarrollo local con recarga automática en tu navegador.
+
+- **[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)** 🔍  
+  👉 Vista previa en vivo de archivos HTML directamente desde VSCode con recarga en tiempo real.
+
+- **[CodeSnap](https://marketplace.visualstudio.com/items?itemName=adammaras.codesnap)** 📸  
+  👉 Toma capturas de pantalla de fragmentos de código con soporte para resaltar y personalizar el estilo.
+
+- **[Symbols](https://marketplace.visualstudio.com/items?itemName=zhangtz.vscode-symbols)** 🔎  
+  👉 Navega por los símbolos del código (funciones, clases, variables) para acceder rápidamente a diferentes partes del archivo.
+
+- **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)** 🔄  
+  👉 Renombra automáticamente las etiquetas HTML o XML de apertura y cierre cuando se cambia uno de los dos.
+
+- **[SVG Preview](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)** 🖼️  
+  👉 Vista previa de imágenes SVG directamente en VSCode para facilitar su edición.
+
+- **[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)** 🌟  
+  👉 Proporciona autocompletado y sugerencias para HTML y CSS dentro de tus archivos.
+
+---
+
+### 🙌 Contribuciones  
+¿Conoces herramientas o scripts útiles que podrían añadirse a este repositorio?  
+¡Siéntete libre de contribuir o abrir un issue! 😊  
