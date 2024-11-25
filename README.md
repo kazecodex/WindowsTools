@@ -126,7 +126,7 @@ Mejora tu flujo de trabajo de desarrollo con estas extensiones:
   👉 Toma capturas de pantalla de fragmentos de código con soporte para resaltar y personalizar el estilo.
 
 - **[Symbols](https://marketplace.visualstudio.com/items?itemName=zhangtz.vscode-symbols)** 🔎  
-  👉 Navega por los símbolos del código (funciones, clases, variables) para acceder rápidamente a diferentes partes del archivo.
+  👉 Cambia la apariencia de los iconos en vscode.
 
 - **[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)** 🔄  
   👉 Renombra automáticamente las etiquetas HTML o XML de apertura y cierre cuando se cambia uno de los dos.
