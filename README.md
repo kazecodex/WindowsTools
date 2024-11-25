@@ -33,17 +33,43 @@ Un repositorio dedicado a recopilar herramientas y recursos indispensables para 
 ## 📦 Programas Recomendados  
 Aquí tienes algunas de las mejores herramientas para instalar en tu sistema Windows:
 
+
+### Compresores y Gestores de Archivos
+<details>
+<summary>Haz clic para ver herramientas de compresión y gestión de archivos</summary>
+
 - **[7-Zip](https://www.7-zip.org/)** 📂  
   👉 Un gestor de archivos comprimidos de código abierto, compatible con varios formatos, ideal para trabajar con archivos comprimidos.
+
+</details>
+
+### Limpieza y Optimización
+<details>
+<summary>Haz clic para ver herramientas de limpieza y optimización</summary>
 
 - **[CCleaner](https://www.ccleaner.com/)** 🧹  
   👉 Herramienta para limpiar y optimizar tu sistema, eliminando archivos temporales, caché y otros elementos innecesarios.
 
+</details>
+
+### Automatización y Productividad
+<details>
+<summary>Haz clic para ver herramientas de automatización y productividad</summary>
+
 - **[AutoHotkey](https://www.autohotkey.com/)** ⌨️  
   👉 Programa que permite automatizar tareas mediante la creación de scripts personalizados. Perfecto para mejorar la productividad.
 
+</details>
+
+### Captura de Pantalla y Grabación
+<details>
+<summary>Haz clic para ver herramientas de captura y grabación</summary>
+
 - **[ShareX](https://getsharex.com/)** 📸  
   👉 Herramienta para hacer capturas de pantalla y grabar tu pantalla con muchas opciones de personalización.
+
+</details>
+
 
 ---
 
