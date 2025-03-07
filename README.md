@@ -16,6 +16,10 @@ Un repositorio dedicado a recopilar herramientas y recursos indispensables para 
 - **[RyTuneX](https://github.com/rayenghanmi/RyTuneX)** ⚙️  
   👉 Una herramienta que permite optimizar y mejorar el rendimiento del sistema, permitiéndote realizar ajustes finos en las configuraciones de tu PC para obtener un mejor rendimiento.
 
+- **[Revo Uninstaller](https://ninite.com/revo/)** ⚡  
+  👉 Desinstalar bloatware, apps de forma profunda.
+
+
 - **Scripts útiles** 💻  
   Automatiza tareas comunes con estos pequeños pero poderosos scripts:  
   - 🧹 Limpieza de archivos temporales.  
