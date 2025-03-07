@@ -17,7 +17,7 @@ Un repositorio dedicado a recopilar herramientas y recursos indispensables para 
   👉 Una herramienta que permite optimizar y mejorar el rendimiento del sistema, permitiéndote realizar ajustes finos en las configuraciones de tu PC para obtener un mejor rendimiento.
 
 - **[Revo Uninstaller](https://ninite.com/revo/)** ⚡  
-  👉 Desinstalar bloatware, apps de forma profunda.
+  👉 Desinstalar aplicaciones de forma profunda sin dejar residuos!
 
 
 - **Scripts útiles** 💻  
